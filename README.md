@@ -1,3 +1,4 @@
+# ⛅️ Alexander Ajagba
 <h2 align="left">Hi i’m Alexander Ajagba, a Computer Science student at Georgia Tech . I’m passionate about building software, learning new technologies, and solving interesting problems. Let’s connect and learn together!</h2>
 
 ###
